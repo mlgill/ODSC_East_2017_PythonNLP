@@ -1,5 +1,7 @@
 # Learning from Text: Introduction to Natural Language Processing with Python
-Michelle L. Gill, Ph.D., Metis  
+Michelle L. Gill, Ph.D.  
+Senior Data Scientist  
+Metis  
 ODSC East  
 May 3, 2017
 
