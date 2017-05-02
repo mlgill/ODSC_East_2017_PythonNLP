@@ -7,6 +7,11 @@ from nltk.corpus import stopwords, wordnet
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 
+### Set these according to your setup ###
+nltk_path='/Volumes/Files/nltk_data/'
+google_vec_file = '/Volumes/Files/nltk_data/GoogleNews-vectors-negative300.bin.gz'
+
+
 
 def get_wordnet_pos(treebank_tag):
     """Convert the part-of-speech naming scheme
