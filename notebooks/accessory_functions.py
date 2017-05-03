@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+## Learning from Text: Introduction to Natural Language Processing
+## Michelle L. Gill, Ph.D.
+## Senior Data Scientist, Metis
+## ODSC East
+## May 3, 2017
+
+import pandas as pd
 import string
 import re
 import nltk
@@ -29,6 +36,7 @@ def get_wordnet_pos(treebank_tag):
     else:
         return wordnet.NOUN
 
+    
 def preprocess_series_text(data, nltk_path=None):
     """Perform complete preprocessing on a Pandas series
        including removal of alpha numerical words, normalization,
