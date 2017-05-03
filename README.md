@@ -8,10 +8,6 @@ Metis
 
 ---
 
-**NOTE:** This repo is for a tutorial to be presented on May 3, 2017 and is currently being updated. A final version will be available the evening before the tutorial.
-
----
-
 ## Software Installation Instructions
 Tested on Mac OS X 10.12 and Ubuntu 14.04
 
