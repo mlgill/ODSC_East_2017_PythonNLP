@@ -17,7 +17,7 @@ Tested on Mac OS X 10.12 and Ubuntu 14.04
     ```console
     conda install -y -c anaconda gensim nltk
     conda install -y -c conda-forge textblob
-    conda install -y -c mlgill lda pyldavis
+    pip install pyldavis
     ```  
     Conda packages for the final two libraries (lda and pyLDAvis) have been built for Mac and Linux. If Windows is being used, they can be installed with `pip` instead.
 
