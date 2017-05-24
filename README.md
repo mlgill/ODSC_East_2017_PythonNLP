@@ -11,7 +11,7 @@ Metis
 ## Software Installation Instructions
 Tested on Mac OS X 10.12 and Ubuntu 14.04
 
-1. Download the Anaconda distribution for Python 3.6 from this [link](https://www.continuum.io/downloads) and configure your environment as described at the end of the installation process. This will install the following necessary libraries: Jupyter notebook, Numpy, Scipy, Pandas, Scikit-Learn, Matplotlib, and Seaborn.
+1. Download the Anaconda distribution for **Python 3.6** (Python 2.7 will not work) from this [link](https://www.continuum.io/downloads) and configure your environment as described at the end of the installation process. This will install the following necessary libraries: Jupyter notebook, Numpy, Scipy, Pandas, Scikit-Learn, Matplotlib, and Seaborn.
 
 2. With the above Anaconda environment activated, install the following additional libraries using the commands listed:
     ```console
