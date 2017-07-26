@@ -19,7 +19,7 @@ Tested on Mac OS X 10.12 and Ubuntu 14.04
     conda install -y -c conda-forge textblob
     pip install pyldavis
     ```  
-    Conda packages for the final two libraries (lda and pyLDAvis) have been built for Mac and Linux. If Windows is being used, they can be installed with `pip` instead.
+    Packages can also installed with `pip` the conda installation does not work.
 
 3. Download the corpora associated with nltk using the following command from a terminal: 
     ```console
